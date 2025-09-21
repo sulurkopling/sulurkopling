@@ -1,7 +1,7 @@
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif"/>
   
-  # Hi there, I'm [Your Name] 👋  
+  # Hi there, I'm BIMO 👋  
 </div>
 
 ---
@@ -19,10 +19,9 @@
 ---
 
 ## 👩‍💻 About Me
-- 🔭 I’m currently working on **[your project / role]**  
-- 📚 I’m learning **[your tech stack / topic]**  
-- 💡 Passionate about **[field or interest]**  
-- ⚡ Fun fact: I love **[hobby or unique fact]**
+- 📚 I'm currently studying **Web Applications**
+- 💡 Passionate about **Programming**
+- ⚡ Fun fact: I love **Sports**
 
 ---
 
